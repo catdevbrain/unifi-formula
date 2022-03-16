@@ -1,4 +1,4 @@
-#unifi-formula
+# Ubiquity unifi-formula
 
 Debian/Ubuntu installs only!
 
