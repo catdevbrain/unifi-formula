@@ -1,0 +1,3 @@
+unifi:
+  version: latest
+  hold: true
