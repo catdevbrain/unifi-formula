@@ -5,4 +5,5 @@ unifi_packages:
   pkg.installed:
     - pkgs:
       - unifi: {{ unifi.version }}
+      - openjdk-8-jre-headless: latest
     - hold: {{ unifi.hold }}
