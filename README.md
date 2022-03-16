@@ -1,4 +1,6 @@
-# unifi-formula
+#unifi-formula
 
-Debian/Ubuntu only
+Debian/Ubuntu installs only!
+
+The default installation can do without pillar data, see `defaults.yaml`.
 
